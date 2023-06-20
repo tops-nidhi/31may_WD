@@ -21,6 +21,14 @@ for ex., <title>Info</title>
 Element:-
 ->Combination of start tag, content, and end tag
     for ex., <title>Info</title>
+
+    1.Inline element:-
+    ->By default height and width according to the content
+    ->b, u, i, strong
+
+    2.Block level element:-
+    ->By default width of the of block level element is full width of the screen
+    ->p, br, blockquote
 -------------------------------------------------------------------
 Attribute:-
 ->Attribute is use to define the property of the element.
