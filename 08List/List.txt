@@ -9,3 +9,9 @@ Types:-
 -> Used for arranging a numbered list in ascending or descending manner
 <ol></ol> -> Ordered List
 <li></li> -> List Item
+
+3) Data List:-
+-> It's used to display data and their definition
+<dl><dl> -> data list
+<dt></dt> -> Data Term
+<dd></dd> -> Data Definition
