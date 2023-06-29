@@ -24,11 +24,11 @@ Element:-
 
     1.Inline element:-
     ->By default height and width according to the content
-    ->b, u, i, strong
+    ->b, u, i, strong, span, img, a
 
     2.Block level element:-
     ->By default width of the of block level element is full width of the screen
-    ->p, br, blockquote
+    ->p, br, blockquote, div, h1 to h6, li
 -------------------------------------------------------------------
 Attribute:-
 ->Attribute is use to define the property of the element.
